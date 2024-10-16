@@ -1,0 +1,25 @@
+
+.container {
+    
+    border: none;
+    border-radius: 8px;
+    margin-top: 22px;
+    background: linear-gradient(to right, #ceecf3, #98dbf1);
+    text-transform: capitalize;
+    
+}
+.imageTemp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-bottom: 15px;
+}
+.detalhes {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    
+}
